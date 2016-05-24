@@ -11,7 +11,14 @@ Imports
 YOUR STYLES
 *******************/
 
+.lg-backdrop {
+ background-color: aquamarine;
+}
 
+.lg-image {
+ border-radius: 4px;
+    box-shadow: 0 0 8px;
+}
 
 
 /********************
