@@ -1,0 +1,57 @@
+/********************
+Imports
+*******************/
+
+@import url('reset.css');
+@import url('accessibility.css');
+@import url('card-styles.css');
+
+
+/********************
+YOUR STYLES
+*******************/
+
+.lg-backdrop {
+ background-color: aquamarine;
+}
+
+.lg-image {
+ border-radius: 4px;
+    box-shadow: 0 0 8px;
+}
+
+h1 {
+ text: blue;   
+}
+
+h2 {
+ letter-spacing: 1em;   
+}
+
+p {
+}
+
+.thumbnail {
+ width: 100px;   
+}
+
+
+
+/********************
+MEDIA QUERIES
+*******************/
+
+/* Desktop */
+@media (min-width: 1200px) {
+
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+
+}
+
+/* Mobile */
+@media (min-width: 480px) {
+
+}
