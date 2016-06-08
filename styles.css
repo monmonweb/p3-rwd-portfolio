@@ -1,3 +1,4 @@
+
 .cards img {
     display: block; 
     width: 200px;
@@ -22,7 +23,7 @@ YOUR STYLES
 *******************/
 
 .lg-backdrop {
- background-color: aquamarine;
+ background-color: #4b5663;
 }
 
 .lg-image {
