@@ -1,4 +1,12 @@
+.cards img {
+    display: block; 
+    width: 200px;
+   
+}
 
+a {
+ text-decoration: none;    
+}
 
 /********************
 Imports
