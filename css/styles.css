@@ -1,3 +1,27 @@
+
+
+h1 {
+    font-size: 8em;
+    font
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    padding: 38px;
+    color: white;
+}
+
+p {
+    margin: 0 auto;
+    padding: 20px;
+    width: 350px;
+    font-size: 1em;
+        color: white;
+}
+
 body {
     background: #483f4c;
     
@@ -12,6 +36,9 @@ body {
     height: 30%;
     width: 30%;
     transform: rotate(90deg);
+    margin: 0 auto;
+    padding: 20px;
+
 }
 
 #RinTT {
@@ -33,25 +60,7 @@ img {
     padding: 10px;
 }
 
-h1 {
-    font-family: 'Open Sans', sans-serif;
-    text-align: center;
-    color: white;
-}
 
-h2 {
-    text-align: center;
-    padding: 38px;
-    color: white;
-}
-
-p {
-    margin: 0 auto;
-    padding: 10px;
-    width: 350px;
-    font-size: 1em;
-        color: white;
-}
 .cards img {
     display: block; 
     width: 200px;
@@ -76,13 +85,13 @@ YOUR STYLES
 *******************/
 
 .lg-backdrop {
- background-color: #4c4c4c;
+ background-color: #312b33;
     opacity: 50%;
 }
 
 .lg-image {
  border-radius: 4px;
-    box-shadow: 0 0 8px;
+    box-shadow: 0 0 80px;
 }
 
 
