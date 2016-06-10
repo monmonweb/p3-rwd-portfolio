@@ -1,3 +1,56 @@
+body {
+    background: #483f4c;
+    
+}
+
+#LlamaC {
+    height: 30%;
+    width: 30%;
+}
+
+#Dino {
+    height: 30%;
+    width: 30%;
+    transform: rotate(90deg);
+}
+
+#RinTT {
+    height: 30%;
+    width: 30%;
+}
+
+#CampingCL {
+    height: 30%;
+    width: 30%;
+}
+
+#blankS {
+    height: 30%;
+    width: 30%;
+}
+img {
+    margin: 0 auto;
+    padding: 10px;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    padding: 38px;
+    color: white;
+}
+
+p {
+    margin: 0 auto;
+    padding: 10px;
+    width: 350px;
+    font-size: 1em;
+        color: white;
+}
 .cards img {
     display: block; 
     width: 200px;
@@ -22,7 +75,8 @@ YOUR STYLES
 *******************/
 
 .lg-backdrop {
- background-color: blue;
+ background-color: #4c4c4c;
+    opacity: 50%;
 }
 
 .lg-image {
